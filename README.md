@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This repository is retired and archived.** It is kept for reference only and is no longer maintained.
+>
+> Its successor is **[QUIC-Research-and-Defense](https://github.com/1337-llama/QUIC-Research-and-Defense)**: research on QUIC abuse plus a detection lab with a capability-free beacon simulator, Zeek/Suricata/Sigma content, and precision/recall scoring. Use that instead.
+>
+> The TLS private keys that were committed under `certs/` have been removed and must be treated as compromised. They remain in this repository's git history, so never trust or reuse any certificate generated from them.
+
 <p align="center">
   <img src="https://github.com/1337-llama/quiC2/assets/71475034/12a8c892-77e4-435b-b226-7f327cd4b5e4">
 </p>
